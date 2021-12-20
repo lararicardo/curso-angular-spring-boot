@@ -13,7 +13,7 @@ public class VendasApplication {
     public String helloWorld(){
         return "Hello World";
     }
-
+    //teste
     public static void main(String[] args) {
         SpringApplication.run(VendasApplication.class, args);
     }
